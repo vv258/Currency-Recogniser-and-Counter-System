@@ -8,3 +8,6 @@ The bundle of notes, to be counted will be placed in the note feeding unit. The 
 Once the note is under the camera, data will be sent serially to MATLAB to start capturing the image of the note and do the image processing in MATLAB. After processing, the data will be sent to controller serially from MATLAB ad controller will make decision about the category of the note. The decision or signal will be sent to the twister to move the correct cabinet under the conveyor so that the note will fall into respective cabinet. The twister consists of on a rotating platform driven by a stepper motor. The stepper motor is controlled by the microcontroller. Cabinets for various denominations are mounted on the twister. Once the process is completed, the recognition amount of the currency and the itemized bill are displayed on the Graphical User Interface (GUI).
 
 ![Flow Chart](https://github.com/vv258/Currency-Recogniser-and-Counter-System/blob/master/images/2.png)
+
+
+More Details at: [Hackster.io](https://www.hackster.io/vipinvngpl1992/currency-recognizer-and-counter-system-cbfbee "Currency Recogniser and Counter System")
